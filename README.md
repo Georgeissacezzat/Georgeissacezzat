@@ -12,20 +12,10 @@ I have hands-on experience in **.NET backend development**, API design, and syst
 
 ---
 
-## Technical Skills  
-
-### Programming Languages  
-- Java, Python, C++, C#, SQL, Kotlin, PHP, Scratch  
-
-### Frameworks & Technologies  
-- .NET Core, FastAPI, Laravel, Ruby on Rails  
-
-### Other Skills  
-- Cloud Computing  
-- Object-Oriented Programming (OOP)  
-- Design Patterns  
-- Databases  
-- Problem Solving  
+## Technical Skills
+**Programming Languages:** Java, Python, C++, C#, SQL, Kotlin, PHP  
+**Frameworks & Technologies:** .NET Core, FastAPI, Laravel, Ruby on Rails  
+**Other Skills:** Cloud Computing, OOP, Design Patterns, Databases, Problem Solving    
 
 ---
 
