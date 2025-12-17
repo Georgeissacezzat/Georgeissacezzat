@@ -21,7 +21,7 @@ I have hands-on experience in **.NET backend development**, API design, and syst
 
 ## Work Experience  
 
-### EVA Pharma — **.NET Developer Intern**  
+### EVA Pharma - **.NET Developer Intern**  
 Jul 2025 – Aug 2025  
 - Built integration between **Mailchimp and CRM systems**  
 - Worked with **MVC, Web APIs, Repository Pattern, Unit of Work, N-Tier Architecture**  
@@ -29,7 +29,7 @@ Jul 2025 – Aug 2025
 - Gained real-world experience in **team workflows and software layering**  
 - **Best Progress Award Winner**
 
-### Corelia — **.NET Backend Intern**  
+### Corelia - **.NET Backend Intern**  
 Mar 2025 – Apr 2025  
 - Developed backend systems using **C#, OOP, Databases, and Data Structures**  
 - Built backend features for an **E-Commerce System**  
