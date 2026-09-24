@@ -14,7 +14,7 @@ I have hands-on experience building scalable systems using **.NET Core, C#, Fast
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 * **Programming Languages:** C#, Python, Java, C++, SQL, PHP
 * **Frameworks & Technologies:** .NET Core, ASP.NET MVC, Web API, FastAPI, Laravel
 * **Architecture & Patterns:** N-Tier Architecture, Clean Architecture, Repository Pattern, Unit of Work, OOP, SOA
@@ -22,7 +22,7 @@ I have hands-on experience building scalable systems using **.NET Core, C#, Fast
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### **Backend Developer Intern** | EVA Pharma  
 *Jul 2025 – Sep 2025*  
