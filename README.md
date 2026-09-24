@@ -72,6 +72,6 @@ I have hands-on experience building scalable systems using **.NET Core, C#, Fast
 
 ---
 
-## 🎓 Education
+## Education
 **B.Sc. in Computer Science (Cloud Computing)** — Grade: **B+**  
 *Canadian International College (CIC), Cairo, Egypt* (Graduated: 2025)
